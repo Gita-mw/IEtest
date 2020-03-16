@@ -1,2 +1,2 @@
-Only #4 & #5 work on IE.
-All of them work on Edge.
+Only #4 & #5 work on IE.  
+#1-5 work on Edge.
